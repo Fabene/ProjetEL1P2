@@ -1,0 +1,22 @@
+.divSpec{
+    background-color:grey;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+};
+#img{
+    image-resolution: 100%;
+    width: 65%;
+    height: 20vh;
+    margin-left: 10vw;
+    border: solid;
+    
+};
+
+.Spectext{
+    font-size: 15px;
+    
+}
+.Spec{
+    text-align: center;
+}
